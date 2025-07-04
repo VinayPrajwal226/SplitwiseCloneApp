@@ -1,5 +1,5 @@
 # SplitWise
-SplitPal is a simple web app to track shared expenses with friends and settle up easily. Built using React, Node.js, and PostgreSQL.
+SplitWise is a simple web app to track shared expenses with friends and settle up easily. Built using React, Node.js, and PostgreSQL.
 
 ## Features
 - Add friends and shared expenses
