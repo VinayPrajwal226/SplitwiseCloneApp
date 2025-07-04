@@ -1,35 +1,8 @@
-# Splitwise-Clone
-Splitwise is a bill spliting application https://secure.splitwise.com, Here I have made a clone by using MERN stack
+# SplitWise
+SplitPal is a simple web app to track shared expenses with friends and settle up easily. Built using React, Node.js, and PostgreSQL.
 
-## How to use
+## Features
+- Add friends and shared expenses
+- View who owes what in real time
+- Settle balances instantly
 
-```
-Use npm install to install all the dependencies. (In Terminal)
-1. cd/client
-   npm install
-   
-2. cd/server
-   npm install
-   
-Use node command to start server side server
-3. cd/server
-   node app.js
-   
-Use npm start to start the client side sever . (In another Terminal)
-4. cd/client
-   npm start
-```
-
-And point your browser to `http://localhost:3000`.
-
-### Homepage
-![](images/homepage.png)
-
-### Dashboard
-![](images/dashboard.png)
-
-### Add an Expense
-![](images/expense.png)
-
-### settle Up
-![](images/settleup.png)
